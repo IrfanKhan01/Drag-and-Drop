@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.col-md-6 {
+  margin-top: 5%;
+}
+
+
+.list-group {
+  margin-top: 5%;
+}
+
+
+.drop-area {
+  height: 100px;
+  width: 400px;
+  border: 1px solid black;
+}
